@@ -1,0 +1,7 @@
+iterator
+generator
+decorator
+multiprocessing
+multithreading
+regular wxpression
+sql lite 
